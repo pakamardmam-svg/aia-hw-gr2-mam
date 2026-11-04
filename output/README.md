@@ -10,6 +10,7 @@
 
 ## ลิงก์ผลงาน
 
+- **หน้าผลงาน (เปิดในเว็บได้เลย):** https://pakamardmam-svg.github.io/aia-hw-gr2-mam/ (ไฟล์ `index.html` บนสุดของ repo)
 - สรุปผลวงวิจัย CPALL: [cpall-loop-summary.md](cpall-loop-summary.md)
 - ภาพหน้าจอรายงาน: `cpall-report-front.png` (จะเติมในรอบถัดไป)
 - รายงานฉบับเต็มเก็บใน workspace ส่วนตัว (`paper/CPALL-loop-2026-11-04.html`) ไม่ขึ้น repo นี้ เพราะหัวข้อความเสี่ยงอ้างบทวิเคราะห์ของโบรกเกอร์
