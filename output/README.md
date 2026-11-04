@@ -10,4 +10,6 @@
 
 ## ลิงก์ผลงาน
 
-- [ลิงก์]
+- สรุปผลวงวิจัย CPALL: [cpall-loop-summary.md](cpall-loop-summary.md)
+- ภาพหน้าจอรายงาน: `cpall-report-front.png` (จะเติมในรอบถัดไป)
+- รายงานฉบับเต็มเก็บใน workspace ส่วนตัว (`paper/CPALL-loop-2026-11-04.html`) ไม่ขึ้น repo นี้ เพราะหัวข้อความเสี่ยงอ้างบทวิเคราะห์ของโบรกเกอร์
